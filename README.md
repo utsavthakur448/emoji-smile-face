@@ -13,5 +13,5 @@ https://utsavthakur448.github.io/todo-app/
 ## 📚 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/utsavthakur448/todo-app.git
+   git clone https://github.com/utsavthakur448/emoji-smile-face.git
 2. Open index.html in your browser.
