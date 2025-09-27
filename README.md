@@ -8,7 +8,7 @@ A simple and Simley emoji-style smiling face built with only HTML and CSS. This 
 - CSS
 
 ## 🚀 Click Here to Demo:
-https://utsavthakur448.github.io/todo-app/
+https://utsavthakur448.github.io/emoji-smile-face-app/
 
 ## 📚 How to Use
 1. Clone the repository:
